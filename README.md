@@ -1,4 +1,4 @@
-<p align="center"><img src="http://www.pngmart.com/image/96318" width="400"></p>
+<p align="center"><img src="https://www.pngitem.com/pimgs/m/222-2222101_gallery-png-file-gallery-png-transparent-png.png" width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
