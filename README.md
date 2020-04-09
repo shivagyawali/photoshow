@@ -43,14 +43,9 @@ A step by step series of examples that tell you how to get a development env run
 Installing the project on local machine
 
 ```
-composer install
+composer update
 ```
 
-And repeat
-
-```
-until finished
-```
 
 End with an example of getting some data out of the system or using it for a little demo
 
