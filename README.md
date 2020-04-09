@@ -36,7 +36,7 @@ The technology used in our application is updated and robust. Which are listed b
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+please review and abide by the [Code of Conduct]).
 
 ## Security Vulnerabilities
 
