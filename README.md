@@ -34,6 +34,41 @@ The technology used in our application is updated and robust. Which are listed b
 -   [mySQL](https://www.mysql.com/)
 -   [Xampp](https://www.apachefriends.org/index.html)
 
+
+
+### Installing
+
+A step by step series of examples that tell you how to get a development env running
+
+Installing the project on local machine
+
+```
+composer install
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+
+
+setup your environment variable and start 
+
+```
+php artisan serve
+```
+This will start your application in http://127.0.0.1:8000/
+
 ## Code of Conduct
 
 please review and abide by the [Code of Conduct]).
